@@ -10,7 +10,7 @@ function Nav() {
   <div className="container-fluid">
     <Link className="navbar-brand" href="/line">
     
-    <Image src="/logo.ico" alt="Favicon" width={60} height={60} />
+    <Image src="/img/logo.png" alt="Favicon" width={60} height={60} />
 
 
     
@@ -54,7 +54,7 @@ function Nav() {
       <span className="navbar-text">
       <Link className="line" href="/line">
     
-    <Image src="/line.gif" alt="Favicon" width={150} height={35} />
+    <Image src="/img/line.gif" alt="Favicon" width={150} height={35} />
     </Link>
    
       </span>
