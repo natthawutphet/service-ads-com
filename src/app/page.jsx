@@ -54,7 +54,7 @@ export default function Home() {
             <div className="row align-items-center flex-wrap-reverse h-100">
               <div className="col-md-6 py-5 wow fadeInLeft">
                 <h3 className="mb-4">โฆษณาออนไลน์สายเทาเพื่อธุรกิจของคุณ</h3>
-                <p className="text-lg text-grey mb-5">ผู้เชี่ยวชาญด้านการตลาดบน Google, YouTube และ Facebook</p>
+                <p >ผู้เชี่ยวชาญด้านการตลาดบน Google, YouTube และ Facebook</p>
                
 
                 <Link href="https://www.youtube.com/channel/UCMSh0LMC_RczXmJ6Qtxo4QA" >
@@ -71,7 +71,7 @@ export default function Home() {
     
                   <div className="image-container">
                     
-              <Image src="/img/ads.jpg" alt="Ads สายเทา" width={380} height={380}  />
+              <Image src="/img/ads.jpg" alt="Ads สายเทา" width={380} height={380} className="imgp"  />
 
 
             </div><Link href="/">โฆษณา Facebook Ads สายเทา</Link>
