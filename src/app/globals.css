@@ -58,6 +58,10 @@ p, h3, h4, h5, h6 {
     color: #000;
 }
 
+footer>p{
+    padding-left: 15px;
+    padding-right: 15px;
+}
 
 
 @keyframes bounce {
