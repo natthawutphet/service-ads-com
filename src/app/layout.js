@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 import Nav from "./Nav";
 import Footer from "./Footer";
 import Head from "next/head";
-
+import { Analytics } from "@vercel/analytics/react"
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
@@ -53,7 +53,7 @@ export default function RootLayout({ children }) {
         <Nav/>
         {children}
 
-
+        <Analytics />
         <Footer/>
         <script async src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" />
 
