@@ -165,7 +165,7 @@ export default function Home() {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6 py-3 wow fadeInUp">
-              <span className="subhead"> ทีมงานที่มีคุณภาพทำงานใส่ใจทุกรายละเอียด </span>
+              <p> ทีมงานที่มีคุณภาพทำงานใส่ใจทุกรายละเอียด </p>
               <h2 className="title-section">สนใจจ้างทำโฆษณาออนไลน์สายเทาไว้ใจเราได้</h2>
               <div className="divider"></div>
     
@@ -201,7 +201,7 @@ export default function Home() {
       <div className="page-section bg-light">
         <div className="container">
           <div className="text-center wow fadeInUp">
-            <div className="subhead">รูปภาพทั้งหมดนี้เป็นส่วนหนึ่งในการทำงานของเราเท่านั้นนะครับ</div>
+            <p>รูปภาพทั้งหมดนี้เป็นส่วนหนึ่งในการทำงานของเราเท่านั้นนะครับ</p>
             <h2 className="title-section">รูปภาพรีวิวผลงาน จากผู้ใช้งานจริง จากลูกค้าจริง</h2>
             <div className="divider mx-auto"></div>
           </div>
@@ -231,7 +231,7 @@ export default function Home() {
             </div><Link href="/">โฆษณา Google Ads สายเทา</Link>
     
                 <div className="card-body">
-                  <h5 className="card-title">รูปภาพรีวิว ผลงาน Google สายเทา</h5>
+                  <h5>รูปภาพรีวิว ผลงาน Google สายเทา</h5>
                   <p className="card-text">สร้างแบรนด์ด้วยโฆษณาออนไลน์สายเทา บริการตลาดบน Facebook, Google, YouTube</p>
                 </div>
               </div>
@@ -344,7 +344,7 @@ export default function Home() {
                 <h2 className="mb-4">Check your Website SEO</h2>
                 <form action="#">
                   <input type="text" className="form-control" placeholder="E.g google.com"/>
-                  <button type="submit" className="btn btn-success">Check Now</button>
+                  <button type="submit" className="btn btn-success"><h6>Check Now</h6></button>
                 </form>
               </div>
             </div>
@@ -355,7 +355,7 @@ export default function Home() {
       <div className="page-section">
         <div className="container">
           <div className="text-center wow fadeInUp">
-            <div className="subhead"><h2>review จ้างยิงแอด โฆษณาสายเทา</h2></div>
+            <div ><h2>review จ้างยิงแอด โฆษณาสายเทา</h2></div>
             <h2 className="title-section">รีวิวการใช้งานจากลูกค้าจริง</h2>
             <div className="divider mx-auto"></div>
           </div>
