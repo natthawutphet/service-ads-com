@@ -20,10 +20,10 @@ export default function Home() {
               "@context": "https://schema.org",
               "@type": "Person",
               "name": "adsmanager",
-              "url": "https://www.servicesadss.com/",
-              "Image": "https://www.servicesadss.com/img/ads.jpg",
+              "url": "https://www.webapp.myfbad.com/",
+              "Image": "https://www.webapp.myfbad.com/img/ads.jpg",
               "sameAs": [
-                "https://www.servicesadss.com/favicon.ico"
+                "https://www.webapp.myfbad.com/favicon.ico"
               ]
             }
           `}
@@ -39,7 +39,7 @@ export default function Home() {
         <meta property="og:title" content="รับทำโฆษณาออนไลน์สายเทา" />
         <meta property="og:description" content="รับทำโฆษณาออนไลน์สายเทา Google, YouTube, Facebook" />
          
-        <link rel="canonical" href="https://www.servicesadss.com/" />
+    
 </Head>
   
   
@@ -57,7 +57,7 @@ export default function Home() {
                 <p >ผู้เชี่ยวชาญด้านการตลาดบน Google, YouTube และ Facebook</p>
                
 
-                <Link href="https://www.youtube.com/channel/UCMSh0LMC_RczXmJ6Qtxo4QA" >
+                <Link href="/vdo" >
             
                 <Image src="/img/yt.jpg" alt="Ads สายเทา" width={150} height={80} className="yt" />
                   </Link>
@@ -180,7 +180,7 @@ export default function Home() {
        
     
                 <div className="ximg">
-                <Link href="https://www.servicesadss.com/">
+                <Link href="https://www.webapp.myfbad.com/">
 
               <Image src="/img/googleadsdark.jpg" alt="Facebook Ads" width={480} height={480}  className="imgp" />
 
