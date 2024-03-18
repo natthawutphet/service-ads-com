@@ -22,27 +22,27 @@ function Footer() {
         <div className="col-lg-3 py-3">
           <h5>Company</h5>
           <ul className="footer-menu">
-            <li><Link  className="p" href="https://www.webapp.myfbad.com/">Home</Link></li>
-            <li><Link  className="p" href="https://www.webapp.myfbad.com/Google">Google</Link></li>
-            <li><Link  className="p" href="https://www.webapp.myfbad.com/Facebook">Facebook</Link></li>
-            <li><Link  className="p" href="https://www.webapp.myfbad.com/Course-Google">คอร์สโฆษณาGoogle</Link></li>
-            <li><Link  className="p" href="https://www.webapp.myfbad.com/Course-Facebook">คอร์สโฆษณาFacebook</Link></li>
-            <li><Link  className="p" href="https://www.webapp.myfbad.com/Interesting">สาระน่ารู้</Link></li>
-            <li><Link  className="p" href="https://www.webapp.myfbad.com/Reviews">รีวิวจากลูกค้าจริง</Link></li>
-            <li><Link  className="p" href="https://www.webapp.myfbad.com/DowloadsGoogle">LandingPage Googleฟรี</Link></li>
-            <li><Link  className="p" href="https://www.webapp.myfbad.com/DowloadsFacebook">LandingPage Facebookฟรี</Link></li>
-            <li><Link  className="p" href="https://www.webapp.myfbad.com/contact">contact</Link></li>
+            <li><Link  className="p" href="https://www.service-ads.com/">Home</Link></li>
+            <li><Link  className="p" href="https://www.service-ads.com/Google">Google</Link></li>
+            <li><Link  className="p" href="https://www.service-ads.com/Facebook">Facebook</Link></li>
+            <li><Link  className="p" href="https://www.service-ads.com/Course-Google">คอร์สโฆษณาGoogle</Link></li>
+            <li><Link  className="p" href="https://www.service-ads.com/Course-Facebook">คอร์สโฆษณาFacebook</Link></li>
+            <li><Link  className="p" href="https://www.service-ads.com/Interesting">สาระน่ารู้</Link></li>
+            <li><Link  className="p" href="https://www.service-ads.com/Reviews">รีวิวจากลูกค้าจริง</Link></li>
+            <li><Link  className="p" href="https://www.service-ads.com/DowloadsGoogle">LandingPage Googleฟรี</Link></li>
+            <li><Link  className="p" href="https://www.service-ads.com/DowloadsFacebook">LandingPage Facebookฟรี</Link></li>
+            <li><Link  className="p" href="https://www.service-ads.com/contact">contact</Link></li>
           </ul>
         </div>
         <div className="col-lg-3 py-3">
           <h5>Contact</h5>
           <p>Ads Manager 32 Soi 20 Charoenrat Road, Khlong San District, Bangkok 10160</p>
           <Link   href="tel:0956422872" className="p footer-link">0956422872</Link>
-          <Link   href="https://www.webapp.myfbad.com" className="p footer-link">admin@webapp.myfbad.com</Link>
+          <Link   href="https://www.service-ads.com" className="p footer-link">admin@service-ads.com</Link>
         </div>
         <div className="col-lg-3 py-3">
-          <h5>www.webapp.myfbad.com</h5>
-          <form action="https://www.webapp.myfbad.com/">
+          <h5>www.service-ads.com</h5>
+          <form action="https://www.service-ads.com/">
             <input type="text" className="form-control" placeholder="Enter your email.."/>
             <button type="submit" className="btn btn-success btn-block mt-2">Submit</button>
           </form>

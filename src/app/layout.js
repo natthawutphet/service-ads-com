@@ -25,26 +25,26 @@ export default function RootLayout({ children }) {
 <meta name="robots" content="index, follow" />
 <meta property="og:title" content="รับทำโฆษณาออนไลน์สายเทา" />
 <meta property="og:description" content="รับทำโฆษณาออนไลน์สายเทา ผู้เชี่ยวชาญด้านการตลาดบน Google, YouTube และ Facebook" />
-<meta property="og:url" content="https://www.webapp.myfbad.com/" />
+<meta property="og:url" content="https://www.service-ads.com/" />
 <meta property="og:type" content="website" />
 
-<meta name="twitter:card" content="https://www.webapp.myfbad.com/img/logo.ico" />
+<meta name="twitter:card" content="https://www.service-ads.com/img/logo.ico" />
 
 
-<meta property="og:image" content="https://www.webapp.myfbad.com/img/logo.ico" />
+<meta property="og:image" content="https://www.service-ads.com/img/logo.ico" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://www.webapp.myfbad.com/" />
+<meta property="og:url" content="https://www.service-ads.com/" />
 
-<meta name="twitter:card" content="https://www.webapp.myfbad.com/img/logo.ico" />
-<meta name="twitter:image" content="https://www.webapp.myfbad.com/img/logo.ico" />
+<meta name="twitter:card" content="https://www.service-ads.com/img/logo.ico" />
+<meta name="twitter:image" content="https://www.service-ads.com/img/logo.ico" />
 <meta name="twitter:title" content="Tiรับทำโฆษณาออนไลน์สายเทา" />
 <meta name="twitter:description" content="รับทำโฆษณาออนไลน์สายเทา ผู้เชี่ยวชาญด้านการตลาดบน Google, YouTube และ Facebook" />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 
 <meta name="google-site-verification" content="PbQl1IGdzrIFiFnnE39varHoAFip5AIAk4QLxK-Nyto" />
- <meta property="og:image" content="https://www.webapp.myfbad.com/logo.ico"/>
+ <meta property="og:image" content="https://www.service-ads.com/logo.ico"/>
 
  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
 
